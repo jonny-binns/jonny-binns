@@ -1,14 +1,4 @@
-# Banner.png
 ![banner](image/banner.png)
-
-# Banner.jpg
-![banner](image/banner.jpg)
-
-# Banner-lo.png
-![banner](image/banner-lo.png)
-
-# Banner-hi.jpg
-![banner](image/banner-hi.jpg)
 
 # About Me
 I'm a computing student currently finishing my final year at Edinburgh Napier University.   
