@@ -16,7 +16,7 @@ Modules that were not programming based do not have GitHub Repositories and aren
 |----------------|-----------------|---------------------|-----------------------|----------------------------|-------------------------------------------|
 | Languages      | Python Flask, HTML, CSS | Java, JADE | Java | Java | Ada-SPARK |
 | Coursework     | [Honours Project](https://github.com/jonny-binns/Honours-Project)|  [Coursework](https://github.com/jonny-binns/MultiAgentSystemsCoursework) | n/a | Currently being worked on in a private repo | Currently being worked on in a private repo |
-| Practical Work | n/a | [Practicals](https://github.com/jonny-binns/MultiAgentSystemsPracticals) | [Practicals](https://github.com/jonny-binns/SoftwareArchitecturePracticals) | n/a | n/a |
+| Practical Work | n/a | [Practicals](https://github.com/jonny-binns/MultiAgentSystemsPracticals) | [Practicals](https://github.com/jonny-binns/SoftwareArchitecturePracticals) | n/a | [Practicals](https://github.com/jonny-binns/FASE-Practicals) |
 
 ## Year 3
 |                | Advanced Web-Technologies | Artificial Intelligence | Data Analytics | Advanced Database Systems |
