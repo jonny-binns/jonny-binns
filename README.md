@@ -1,21 +1,22 @@
 ![banner](image/banner.png)
 
 # About Me
-I'm a computing student currently finishing my final year at Edinburgh Napier University.   
-(this is currently a work in progress it will be updated)
+I'm a recent computing graduate who is now working as a developer.
 
 # Personal Projects
-Personal Projects are currently on hold as I finish my degree, most of my time is spent working on my honours project.
+* [Spotify Saver](https://github.com/jonny-binns/SpotifySaver), simple program that reads through folders of music and saves them to your spotify library
+* [Agree to Disagree](https://github.com/jonny-binns/Agree-To-Disagree), this was started as my honours project at university and development will continue until its finished
+
 
 # Univsersity Work
 Modules that were not programming based do not have GitHub Repositories and aren't included in this table.   
-(n/a = work not on GitHub)   
+(n/a = work not on GitHub, these will be added in time)   
 
 ## Year 4
 |                | Honours Project | Multi-Agent Systems | Software Architecture | Computational Intelligence | Formal Approaches to Software Engineering |
 |----------------|-----------------|---------------------|-----------------------|----------------------------|-------------------------------------------|
 | Languages      | Python Flask, HTML, CSS | Java, JADE | Java | Java | Ada-SPARK |
-| Coursework     | [Honours Project](https://github.com/jonny-binns/Honours-Project)|  [Coursework](https://github.com/jonny-binns/MultiAgentSystemsCoursework) | n/a | Currently being worked on in a private repo | Currently being worked on in a private repo |
+| Coursework     | [Honours Project](https://github.com/jonny-binns/Agree-To-Disagree)|  [Coursework](https://github.com/jonny-binns/MultiAgentSystemsCoursework) | n/a | [Coursework](https://github.com/jonny-binns/ComputationalIntelligenceCoursework) | [Coursework](https://github.com/jonny-binns/FASE-Coursework) |
 | Practical Work | n/a | [Practicals](https://github.com/jonny-binns/MultiAgentSystemsPracticals) | [Practicals](https://github.com/jonny-binns/SoftwareArchitecturePracticals) | n/a | [Practicals](https://github.com/jonny-binns/FASE-Practicals) |
 
 ## Year 3
