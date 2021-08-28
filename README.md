@@ -30,7 +30,7 @@ Modules that were not programming based do not have GitHub Repositories and aren
 |                | Database Systems | Object Oriented Development | Algorithms and Data Structures | Software Engineering Methods| Web Technologies |
 |----------------|------------------|-----------------------------|--------------------------------|-----------------------------|------------------|
 | Languages      | SQL | C#, .net | C | Java, Travis-ci, Docker, Kubernetes | HTML, JavaScript, Node.js |
-| Coursework     | n/a | n/a |  [Coursework](https://github.com/jonny-binns/Binns_Jonathan_ads) | [Coursework](https://github.com/AlexanderRacey/group24_coursework) | [Coursework 1](https://github.com/jonny-binns/Binns_Jonathan_webtech_coursework1) [Coursework 2](https://github.com/jonny-binns/binns_jonathan_set008101_coursework2) |
+| Coursework     | n/a | [Coursework 1](https://github.com/jonny-binns/ObjectOrientedSoftwareDevelopmentCW1) [Coursework2](https://github.com/jonny-binns/ObjectOrientedSoftwareDevelopmentCW2) |  [Coursework](https://github.com/jonny-binns/Binns_Jonathan_ads) | [Coursework](https://github.com/AlexanderRacey/group24_coursework) | [Coursework 1](https://github.com/jonny-binns/Binns_Jonathan_webtech_coursework1) [Coursework 2](https://github.com/jonny-binns/binns_jonathan_set008101_coursework2) |
 | Practical Work | n/a | n/a | [Practicals](https://github.com/jonny-binns/set08122) | [Pracitcals](https://github.com/jonny-binns/sem) due to how the module was structured, I worked as part of a team to complete the coursework which was added to with each practical | [Practicals](https://github.com/jonny-binns/set08101) |
 
 ## Year 1
